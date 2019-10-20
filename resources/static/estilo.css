@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+
+body {
+  background-color: lightBlue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: TimeNewRoman;
+  font-size: 40px;
+  text-align: center;
+}
+
+table {
+	font-family: TimeNewRoman;
+
+	
+}
+
+
+tbody tr {
+	
+	font-weight: bold;
+	font-size: 15px;
+}
